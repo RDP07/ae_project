@@ -222,7 +222,7 @@ hr{
 .prodpreview-tile,#products{
 	height: 200px;
 	margin: 20px 0;
-	border:1px solid #EAE8E8;
+	border: 1px solid #EAE8E8;
 }
 .prodimage{
 	width: 183px;
@@ -254,6 +254,8 @@ hr{
 
 
 .aboutus h2{
+	margin: 0 auto;
+	float: left;
 	color:#6781FF;
 	font-family: 'times new roman', arial;
 	font-size: 3em;
@@ -378,7 +380,7 @@ footer p{
 		box-shadow: none;
 	}
   
- 	#colorstrip{
+ 	#color-strip{
 		top:0;
    height: 1%;
 	}
@@ -456,7 +458,7 @@ footer p{
 		height: 140px;
 	}
   
-	#colorstrip{
+	#color-strip{
 		top:0;
     width: 100%;
 	}
@@ -541,7 +543,7 @@ footer p{
 		height: 1667px;
 	}
   
-  #colorstrip{
+  #color-strip{
 		top:0;
     height: 1%;
     
